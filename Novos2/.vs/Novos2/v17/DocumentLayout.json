@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\novus2\\Novos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D0339-C722-4930-9D3B-C5A9F022602F}|Novos2\\Novos2.csproj|c:\\novus2\\novos2\\novos2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7D0339-C722-4930-9D3B-C5A9F022602F}|Novos2\\Novos2.csproj|solutionrelative:novos2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\novus2\\Novos2\\Novos2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Novos2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\novus2\\Novos2\\Novos2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Novos2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:41:55.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RYh2YOJcWzPBzb6e56+4lnrUO6YQixWS4nFQICK5vGs=",
+  "Source": "02-Http-Verbs-Web-Api",
+  "BasePath": "_content/02-Http-Verbs-Web-Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
